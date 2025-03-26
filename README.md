@@ -3,7 +3,7 @@
 <p align="center">
   🚀 B.Tech CSE | Full Stack Web Developer |  
   <br>📍 From Patna , Bihar 
-  <br>🏆 NEBULA Hackathon Participant | 👨‍🏫 Passionate about Teaching & Development
+  <br> 👨‍🏫 Passionate about Teaching & Development
 </p>
 
 ---
