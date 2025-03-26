@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🎓 **B.Tech in Computer Science & Engineering** (Full Stack Web Development) @ Lovely Professional University  
-- 🌱 Currently learning **Advanced Web Development & System Design**  
+- 🌱 Currently learning **Intermediate Web Development & System Design**  
 - 💡 Passionate about **Problem Solving, Algorithms, and Software Development**  
 - 🏆 Completed courses on **Microsoft Learning, IBM (Coursera), Google Networking, Digital Systems**  
 - 💬 Ask me about **C++, Data Structures, Web Development, and Computer Networking**  
